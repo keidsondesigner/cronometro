@@ -1,3 +1,5 @@
+<a href="https://imgur.com/j9xa0BY"><img src="https://i.imgur.com/j9xa0BY.png" title="source: imgur.com" /></a>
+
 # ⏱️ Meu Crônometro.
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
 
