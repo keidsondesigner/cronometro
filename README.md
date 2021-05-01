@@ -10,5 +10,9 @@
 
 ## ✨Sobre o WalletApp.
 > O objetivo do Meu Crônometro, é contar o tempo.
+> 
+> Dia 1: Layout no figma;
+> Dia 2: Comecei a codar, estrurando toda a parte do HTML e partindo para a estiliozação com CSS;
+> DIA 3: Ora de trabalhar as funções com o javascript;
 
 https://keidsondesigner.github.io/cronometro/
