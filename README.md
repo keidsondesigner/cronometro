@@ -1,4 +1,4 @@
-# 📱 Meu Crônometro.
+# ⏱️ Meu Crônometro.
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
 
 ## ☕ Tecnologias Usadas
